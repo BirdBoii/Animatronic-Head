@@ -1,5 +1,5 @@
 # Animatronic-Head
-A basic animatronic head that looks at a any person it sees through the camera.
+A basic animatronic head that stares into the eyes of any person it detects through the camera.
 
 <img src="https://github.com/user-attachments/assets/ebe5c8b9-d99e-4b47-80f2-551ed321744c" width="300">
 
